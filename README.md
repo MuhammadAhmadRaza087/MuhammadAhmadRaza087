@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋 Hi there! I'm Muhammad Ahmad Raza, a passionate software developer with a focus on React Native and mobile app development. I love turning ideas into code and building innovative solutions.<br><br>🚀 I'm currently working on a CarFlex App using Flutter, where I explore the realms of front-end development, mobile application design, and also integrating AR into the App.<br><br>💡 My expertise includes JavaScript, React, React Native, and MERN stack. I enjoy creating clean and efficient code to deliver seamless user experiences.<br><br>🌐 Check out my repositories for projects. I believe in continuous learning and am always open to collaboration and feedback.<br><br>📫 Let's connect! Feel free to reach out for discussions on code, collaboration opportunities, or just to say hello.<br><br>Happy coding! 🚀
+# 👋 Hi there! I'm Muhammad Ahmad Raza  
+
+I'm a **Full Stack Developer** with a strong passion for building scalable web applications and seamless user experiences. I specialize in **React.js, Next.js, Node.js, and MongoDB**, creating efficient, high-performance solutions.  
+
+## 🚀 What I'm Working On  
+🔹 **Plan Hour** – A smart event planner web application that streamlines event organization, vendor management, and budgeting.  
+🔹 **CarFlex** – A car performance calculator using advanced computational models and real-time data analysis.  
+
+## 💡 My Tech Stack & Expertise  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Zustand, Redux  
+- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Databases:** MongoDB, Firebase  
+- **DevOps & Tools:** Docker, AWS (EC2, S3), Git, CI/CD  
+- **Other Skills:** Webhooks, Performance Optimization, API Security  
+
+## 🌐 Explore My Work  
+Check out my repositories to see projects where I focus on **scalability, performance, and intuitive user interfaces**. I believe in continuous learning and staying updated with the latest tech trends.  
+
+## 📫 Let's Connect!  
+Feel free to reach out for **collaborations, open-source contributions, or tech discussions**. I'm always excited to connect with like-minded developers! 🚀  
+
 
 
 ## 🌐 Socials:
