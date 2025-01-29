@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** with a strong passion for building scalable web a
 ## 💡 My Tech Stack & Expertise  
 - **Frontend:** React.js, Next.js, Tailwind CSS, Zustand, Redux  
 - **Backend:** Node.js, Express.js, RESTful APIs  
-- **Databases:** MongoDB, Firebase  
+- **Databases:** MongoDB, Firebase,Oracle DB, MySQL, MSSQL 
 - **DevOps & Tools:** Docker, AWS (EC2, S3), Git, CI/CD  
 - **Other Skills:** Webhooks, Performance Optimization, API Security  
 
