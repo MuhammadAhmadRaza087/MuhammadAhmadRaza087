@@ -14,7 +14,7 @@ Full Stack Developer with ~2 years of professional experience building proprieta
 - 🔹 **Trading integrations** — MT5, MatchTrader, and TradeLocker APIs with token-refresh interceptors and live account sync
 - 🔹 **Real-time monitoring** — Node.js gRPC services processing dual streams (positions + equity) on 1-second loops with auto-restart and graceful shutdown
 - 🔹 **Risk management workers** — cron-based batch jobs enforcing drawdown rules, computing P&L, and auto-closing breached positions across 100 accounts/cycle
-- 🔹 **Payment stacks** — Stripe, PayPal, Tap Payments, Confirmo, Authorize.Net, PayMaxis — with idempotent webhook handlers and raw-body signature verification
+- 🔹 **Payment stacks** — Stripe, Paytiko, Tap Payments, Confirmo, Authorize.Net, PayMaxis — with idempotent webhook handlers and raw-body signature verification
 - 🔹 **KYC pipelines** — Veriff in-context SDK integration for identity verification and onboarding automation
 ---
  
