@@ -37,11 +37,7 @@ Full Stack Developer with ~2 years of professional experience building proprieta
 **Testing & Tooling:** Jest, Postman, Hoppscotch, ESLint, Prettier, nodemon
  
 ---
- 
-# 📊 GitHub Stats:
-![MuhammadAhmadRaza087's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadRaza087&theme=radical&show_icons=true&hide_border=false&count_private=false)<br></br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmadRaza087&theme=radical" alt="GitHub Streak" /></a><br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadRaza087&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MuhammadAhmadRaza087&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
